@@ -1,0 +1,104 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+div #first-row-text {
+    background-color: #941313;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+div #first-row-text:hover {
+   text-decoration: underline;
+}
+
+.custom-jumbotron {
+    background-color: rgba(0,0,0,0.06);
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+#saving-season {
+    border-radius: 0px;
+    border: none;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgba(153,12,12,0.83);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#saving-season:hover {
+    text-decoration: underline;
+}
+
+.custom-jumbotron-title {
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.custom-jumbotron-description {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.shop-now {
+    background-color: rgba(153,12,12,0.83);
+    color: white;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+}
+
+.shop-now-link {
+    background-color: transparent;
+    color: rgba(153,12,12,0.83);
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+
+.shop-now-link:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.shop-now:hover {
+    text-decoration: underline;
+}
+
+.img-custom {
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    vertical-align: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+#footer {
+    padding-right: 100px;
+    padding-left: 100px;
+}
